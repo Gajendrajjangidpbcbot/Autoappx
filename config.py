@@ -3,12 +3,12 @@ import os
 ##Code Written By @ItsMeMaster
 
 class Config(object):
-    BOT_TOKEN = "7791069910:AAECoYiyaxfuYh8JIAsBxNAD0xRpYKTLoBw"
-    DB_NAME = "txtbot"
-    API_ID = "22849789"
-    API_HASH = "0fc127c6055acd59f00ec6c229e1e3c4"
-    ADMIN_ID = "7296271316"
-    DB_URL = "mongodb+srv://yassuthakur750:Yash2835P@txt.qz9t8qs.mongodb.net/?retryWrites=true&w=majority&appName=Txt"
-    LOG_CHANNEL = "-1002477114210" # Your Log Channel ID (Bot ko ADMIN BNAYE)
-    USERLINK = ""
+    BOT_TOKEN = "7665324784:AAHq8gmoWoHYbJ3CGX70F1wyk3F39nAbKX8"
+    DB_NAME = "takkishor9784"
+    API_ID = "21157244"
+    API_HASH = "4981c2699bd91c7db836ec8f77e5b0f0"
+    ADMIN_ID = "1783306092"
+    DB_URL = "mongodb+srv://takkishor9784:gG73juoh44MnvJEZ@cluster0.q8hxdk2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    LOG_CHANNEL = "-1002758652479" # Your Log Channel ID (Bot ko ADMIN BNAYE)
+    USERLINK = "https://t.me/bosch12345o"
     TUTORIAL_VIDEO = ""
