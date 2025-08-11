@@ -8,5 +8,5 @@ def home():
     return "Web App is running on Render!"
 
 if __name__ == '__main__':
-    port = int(os.environ.get("PORT", 8000))  # Render द्वारा दिया गया पोर्ट
+    port = int(os.environ.get("PORT", 8080))  # Render द्वारा दिया गया पोर्ट
     app.run(host="0.0.0.0", port=port)  # सभी नेटवर्क इंटरफेस पर सुनना ज़रूरी है
